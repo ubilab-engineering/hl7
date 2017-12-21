@@ -27,7 +27,7 @@ NOTE 2 Il est possible que des réglementations nationales, régionales et local
 ```
 
 NF EN ISO 15189 (SH REF 02), § 5.8
-[source](https://github.com/ubilab-engineering/hl7/doc/cofrac/SH-REF-02.pdf)
+[source](https://github.com/ubilab-engineering/hl7/raw/master/doc/cofrac/SH-REF-02.pdf)
 
 Nous avons essayé 
 
