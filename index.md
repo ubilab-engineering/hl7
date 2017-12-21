@@ -4,6 +4,7 @@
 # Compte rendu de résultat
 
 
+
 ## Le texte officiel
 ```text
 5.8.3 Les résultats doivent être lisibles, ne présenter aucune erreur de transcription et être diffusés aux personnes habilitées à recevoir et à utiliser les informations médicales. Le compte rendu doit comprendre, sans y être limité, les renseignements suivants:
@@ -24,6 +25,9 @@ n) si possible, la signature ou l’autorisation de la personne vérifiant ou tr
 NOTE 1 En se référant à i) et dans certaines circonstances, il peut être approprié de diffuser des listes ou des tableaux spécifiant les intervalles de référence biologiques à tous les utilisateurs des services du laboratoire et sur les sites auxquels les comptes rendus sont adressés.
 NOTE 2 Il est possible que des réglementations nationales, régionales et locales exigent que le nom et l’adresse du laboratoire effectuant l’analyse (ou du laboratoire sous-traitant) figurent dans le compte rendu final.
 ```
+NF EN ISO 15189 (SH REF 02), § 5.8
+
+
 
 ## Liste de toutes les informations obligatoires
 
