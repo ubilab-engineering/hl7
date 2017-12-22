@@ -26,16 +26,26 @@ NOTE 2 Il est possible que des réglementations nationales, régionales et local
 NF EN ISO 15189 (SH REF 02), § 5.8
 [source](https://github.com/ubilab-engineering/hl7/raw/master/doc/cofrac/SH-REF-02.pdf)
 
-Nous avons essayé 
+
 
 ## Liste de toutes les informations obligatoires
- * Identification laboratoire 
+ * Laboratoire
+   * Identifiant laboratoire 
  * Patient 
     * ID
     * Nom
     * Prénom 
     * Date de naissance
     * ISN
+    * CODE_SECURITE_SOCIALE
  * Préleveur
+    * ID
+    * Nom
+    * Prénom
  * Prescripteur
+    * ID
+    * Nom
+    * Prénom
+ * Resultat
+  
  
